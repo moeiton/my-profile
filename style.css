@@ -1,0 +1,55 @@
+.img-circle {
+	border-radius: 70%;
+	margin: 0px 0px 30px 250px;
+    width: 300px;
+    transform: rotate(90deg);
+}
+.btn-black{
+	background-color:540804;
+	color:white;
+	padding: 5px 10px;
+	border-radius:4px; 
+}
+.btn-black:hover{
+	background-color: black;
+	color:white;
+}
+.list-inline{
+	padding-left:0px ;
+}
+h1{
+	 margin:0px 0px 30px 200px;
+	 color: 133154;
+	 font-family: Permanent Marker;
+	 font-weight: 15;
+	 letter-spacing:4px;
+	 font-size: 40px;
+	 text-transform: initial;
+}
+body{
+background-image:url(images/mur4.jpg);
+color: black;
+font-family: Hammersmith One; 
+font-weight: 5;
+font-size: 16px;
+}
+h2{
+	color: 133154;
+	 font-family: Permanent Marker;
+	 font-weight: 5;
+	 letter-spacing:4px;
+	 font-size: 20px;
+	 text-transform: initial;
+}
+h4{
+	font-size: 18px;
+}
+a{ text-decoration:none;
+	color: 540804;
+	font-size: 30px;
+ }
+
+a:hover{
+	color: white;
+}
+
